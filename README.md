@@ -3,4 +3,4 @@ Ide Development Course at ITMO 2022.
 
 * Homework 1 : Arithmetic expression analyzer
 
-* Homework 2 : Lexer
+* Homework 2 : [Lexer for Janet language](https://github.com/inspired99/intellij-janet)
